@@ -1,0 +1,23 @@
+.container {
+  position: relative;
+  width: 700px;
+  height: 700px;
+  background-color: black;
+}
+
+.block1 {
+  position: absolute;
+  top: 200px;
+  right: 0;
+  width: 500px;
+  height: 500px;
+  background-color: yellow;
+}
+.block2 {
+  position: absolute;
+  top: 20px;
+  right: 0;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
