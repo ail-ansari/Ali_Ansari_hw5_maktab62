@@ -1,0 +1,26 @@
+.div-left {
+  background-color: dimgray;
+  width: 300px;
+  height: 200px;
+  margin-right: 20px;
+  float: left;
+  margin-bottom: 10px;
+}
+.div-clear {
+  background-color: dimgray;
+  width: 300px;
+  height: 200px;
+  margin-right: 20px;
+  clear: left;
+  margin-bottom: 10px;
+}
+.div-inline {
+  background-color: dimgray;
+  width: 300px;
+  height: 200px;
+  margin-right: 20px;
+  display: inline-block;
+}
+#p1 {
+  text-align: center;
+}
